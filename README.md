@@ -18,5 +18,5 @@ Menghubungkan perangkat lunak Aegisub ke Discord Rich Presence.
 Pastikan fail atau berkas video sudah termuat dalam Aegisub.
 Jika tidak, berkas yang dimuat takkan muncul di RPC kalian.
 
-Melihat galat dalam automasi? Silakan hubungi saya di Discord `rikachimalu#6270`.
+Melihat galat dalam automasi? Silakan hubungi saya di Discord `Kresendo#6270`.
 Terima kasih!
